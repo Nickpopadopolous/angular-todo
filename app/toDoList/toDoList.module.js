@@ -4,6 +4,10 @@ angular
         'ui.router',
 
         // Features
+        'toDoList.create',
+        'toDoList.list',
+        'toDoList.completed'
+
 
     ])
     .config(appConfig);
