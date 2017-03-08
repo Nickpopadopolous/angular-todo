@@ -4,4 +4,5 @@ angular
 
 	function ListCtrl($http, $scope) {
 		var vm = this;
+
 	}
